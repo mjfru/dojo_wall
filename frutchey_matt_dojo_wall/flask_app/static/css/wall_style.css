@@ -1,0 +1,62 @@
+#navbar {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+h2, h3 {
+    font-family: 'Archivo', sans-serif;
+}
+
+#nav_right {
+    display: flex;
+    align-items: center;
+}
+
+#nav_right h3, a {
+    margin-left: 30px;
+}
+
+#wrapper {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.new_post_head{
+    display: flex;
+    flex-direction: column;
+}
+
+#post_form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+#post_form input {
+    margin-left: 20px;
+}
+
+#community {
+    text-align: center;
+}
+
+.user_posts {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.user_post {
+    text-align: left;
+    border: 2px solid black;
+    padding-bottom: 10px;
+    margin: 5px;
+    padding: 5px;
+}

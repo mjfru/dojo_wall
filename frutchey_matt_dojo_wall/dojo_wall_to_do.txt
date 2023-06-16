@@ -1,0 +1,24 @@
+道場の壁プロジェクトのしなければならないこと：
+
+まだしてないこと：
+なし！
+
+もう終えたこと：
+ホーム page
+'壁' page
+登録用紙
+ログイン用紙
+Jinja connecting user in session
+Login 機能性
+Create Post class in models folder, link all
+壁のページにポストの機能性を設ける
+Properly reflect post information on 'wall' page w/ Jinja
+Implement delete function on user's own posts
+Add validation for registering
+Use bcrypt to secure passwords
+Add validation for logging in
+日付をもっと読みやすくして
+
+大変な部分：
+さすが、全部ｗ
+ユーザー、ポストのＭｏｄｅｌ、Ｃｏｎｔｒｏｌｌｅｒとつながる
